@@ -1,5 +1,4 @@
 # Connectome-Lab
-Guide &amp; Tip
 
 ### Guide
 Server sshkey setting : [connectome_server_sshkey_setting.git](https://github.com/nemodleo/connectome_server_sshkey_setting)
