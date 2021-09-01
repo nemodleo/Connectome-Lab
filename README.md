@@ -1,4 +1,5 @@
 # Connectome-Lab
+[Notion](https://veiled-rhinoceros-7bc.notion.site/For-the-users-6f8b4f002bdf460cb4e427be98e3cae2)
 
 ### Guide
 Server sshkey setting : [connectome_server_sshkey_setting.git](https://github.com/nemodleo/connectome_server_sshkey_setting)
